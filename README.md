@@ -25,6 +25,7 @@ By providing detailed information on the burden of HF and how it was managed, at
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
 * [CCU045_01: A nationwide, population-based study on specialized care for acute heart failure throughout the COVID-19 pandemic](https://github.com/BHFDSC/CCU045_01)
+* [CCU045_02: Contemporary epidemiology of hospitalised heart failure with reduced versus preserved ejection fraction in England: a retrospective, cohort study of whole-population electronic health records](https://github.com/BHFDSC/CCU045_02)
 
 Links to other outputs will follow in due course.
 
